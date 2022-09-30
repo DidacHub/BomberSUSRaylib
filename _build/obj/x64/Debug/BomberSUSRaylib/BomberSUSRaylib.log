@@ -1,0 +1,17 @@
+﻿  raylib_game.cpp
+C:\Users\didac.segarra\Desktop\BomberSUSRaylib\game\src\raylib_game.cpp(57,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\didac.segarra\Desktop\BomberSUSRaylib\game\src\raylib_game.cpp(58,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\didac.segarra\Desktop\BomberSUSRaylib\game\src\raylib_game.cpp(59,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\didac.segarra\Desktop\BomberSUSRaylib\game\src\raylib_game.cpp(122,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\didac.segarra\Desktop\BomberSUSRaylib\game\src\raylib_game.cpp(123,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\didac.segarra\Desktop\BomberSUSRaylib\game\src\raylib_game.cpp(125,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\didac.segarra\Desktop\BomberSUSRaylib\game\src\raylib_game.cpp(126,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\didac.segarra\Desktop\BomberSUSRaylib\game\src\raylib_game.cpp(149,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\didac.segarra\Desktop\BomberSUSRaylib\game\src\raylib_game.cpp(150,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\didac.segarra\Desktop\BomberSUSRaylib\game\src\raylib_game.cpp(152,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\didac.segarra\Desktop\BomberSUSRaylib\game\src\raylib_game.cpp(153,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\didac.segarra\Desktop\BomberSUSRaylib\game\src\raylib_game.cpp(176,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\didac.segarra\Desktop\BomberSUSRaylib\game\src\raylib_game.cpp(177,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\didac.segarra\Desktop\BomberSUSRaylib\game\src\raylib_game.cpp(179,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\didac.segarra\Desktop\BomberSUSRaylib\game\src\raylib_game.cpp(180,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  BomberSUSRaylib.vcxproj -> C:\Users\didac.segarra\Desktop\BomberSUSRaylib\_bin\Debug\BomberSUSRaylib.exe
